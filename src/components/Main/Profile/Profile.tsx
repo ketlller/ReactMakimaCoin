@@ -29,3 +29,7 @@ export function Profile() {
 
 // ты изучил хуки, useState, useEffect, useRef, useContext, из которой создал свой собственный useAuth,
 // сделал свой провайдер для useAuth при помощи useContext
+
+
+
+// some text on comm
